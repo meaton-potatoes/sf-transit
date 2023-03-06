@@ -1,0 +1,337 @@
+﻿[
+  {
+    "id": "67",
+    "name": "Bernal Heights",
+    "mode": "bus"
+  },
+  {
+    "id": "9R",
+    "name": "San Bruno Rapid",
+    "mode": "bus"
+  },
+  {
+    "id": "F",
+    "name": "Market & Wharves",
+    "mode": "metro"
+  },
+  {
+    "id": "2",
+    "name": "Sutter",
+    "mode": "bus"
+  },
+  {
+    "id": "37",
+    "name": "Corbett",
+    "mode": "bus"
+  },
+  {
+    "id": "15",
+    "name": "Bayview Hunters Point Express",
+    "mode": "bus"
+  },
+  {
+    "id": "27",
+    "name": "Bryant",
+    "mode": "bus"
+  },
+  {
+    "id": "48",
+    "name": "Quintara-24th Street",
+    "mode": "bus"
+  },
+  {
+    "id": "6",
+    "name": "Haight-Parnassus",
+    "mode": "bus"
+  },
+  {
+    "id": "7",
+    "name": "Haight-Noriega",
+    "mode": "bus"
+  },
+  {
+    "id": "J",
+    "name": "Church",
+    "mode": "metro"
+  },
+  {
+    "id": "N",
+    "name": "Judah",
+    "mode": "metro"
+  },
+  {
+    "id": "21",
+    "name": "Hayes",
+    "mode": "bus"
+  },
+  {
+    "id": "30",
+    "name": "Stockton",
+    "mode": "bus"
+  },
+  {
+    "id": "54",
+    "name": "Felton",
+    "mode": "bus"
+  },
+  {
+    "id": "KBUS",
+    "name": "K Ingleside Bus",
+    "mode": "bus"
+  },
+  {
+    "id": "TBUS",
+    "name": "Third Bus",
+    "mode": "bus"
+  },
+  {
+    "id": "43",
+    "name": "Masonic",
+    "mode": "bus"
+  },
+  {
+    "id": "1X",
+    "name": "California Express",
+    "mode": "bus"
+  },
+  {
+    "id": "45",
+    "name": "Union-Stockton",
+    "mode": "bus"
+  },
+  {
+    "id": "S",
+    "name": "Shuttle",
+    "mode": "metro"
+  },
+  {
+    "id": "38R",
+    "name": "Geary Rapid",
+    "mode": "bus"
+  },
+  {
+    "id": "LOWL",
+    "name": "Owl Taraval",
+    "mode": "bus"
+  },
+  {
+    "id": "39",
+    "name": "Coit",
+    "mode": "bus"
+  },
+  {
+    "id": "NOWL",
+    "name": "Owl Judah",
+    "mode": "bus"
+  },
+  {
+    "id": "8BX",
+    "name": "Bayshore B Express",
+    "mode": "bus"
+  },
+  {
+    "id": "33",
+    "name": "Ashbury-18th Stree",
+    "mode": "bus"
+  },
+  {
+    "id": "5",
+    "name": "Fulton",
+    "mode": "bus"
+  },
+  {
+    "id": "LBUS",
+    "name": "Taraval Bus",
+    "mode": "bus"
+  },
+  {
+    "id": "28",
+    "name": "19th Avenue",
+    "mode": "bus"
+  },
+  {
+    "id": "55",
+    "name": "Dogpatch",
+    "mode": "bus"
+  },
+  {
+    "id": "714",
+    "name": "Bart Early Bird",
+    "mode": "bus"
+  },
+  {
+    "id": "8AX",
+    "name": "Bayshore A Express",
+    "mode": "bus"
+  },
+  {
+    "id": "NBUS",
+    "name": "Judah Bus",
+    "mode": "bus"
+  },
+  {
+    "id": "52",
+    "name": "Excelsior",
+    "mode": "bus"
+  },
+  {
+    "id": "12",
+    "name": "Folsom-Pacific",
+    "mode": "bus"
+  },
+  {
+    "id": "66",
+    "name": "Quintara",
+    "mode": "bus"
+  },
+  {
+    "id": "58",
+    "name": "Lake Merced",
+    "mode": "bus"
+  },
+  {
+    "id": "56",
+    "name": "Rutland",
+    "mode": "bus"
+  },
+  {
+    "id": "M",
+    "name": "M Ocean View",
+    "mode": "metro"
+  },
+  {
+    "id": "PH",
+    "name": "Powell-Hyde Cable Car",
+    "mode": "cableway"
+  },
+  {
+    "id": "57",
+    "name": "Parkmerced",
+    "mode": "bus"
+  },
+  {
+    "id": "PM",
+    "name": "Powell-Mason Cable Car",
+    "mode": "cableway"
+  },
+  {
+    "id": "T",
+    "name": "THIRD",
+    "mode": "metro"
+  },
+  {
+    "id": "14R",
+    "name": "MISSION RAPID",
+    "mode": "bus"
+  },
+  {
+    "id": "8",
+    "name": "BAYSHORE",
+    "mode": "bus"
+  },
+  {
+    "id": "CA",
+    "name": "CALIFORNIA STREET CABLE CAR",
+    "mode": "cableway"
+  },
+  {
+    "id": "14",
+    "name": "MISSION",
+    "mode": "bus"
+  },
+  {
+    "id": "K",
+    "name": "INGLESIDE",
+    "mode": "metro"
+  },
+  {
+    "id": "19",
+    "name": "POLK",
+    "mode": "bus"
+  },
+  {
+    "id": "22",
+    "name": "FILLMORE",
+    "mode": "bus"
+  },
+  {
+    "id": "25",
+    "name": "TREASURE ISLAND",
+    "mode": "bus"
+  },
+  {
+    "id": "29",
+    "name": "SUNSET",
+    "mode": "bus"
+  },
+  {
+    "id": "44",
+    "name": "O'SHAUGHNESSY",
+    "mode": "bus"
+  },
+  {
+    "id": "9",
+    "name": "SAN BRUNO",
+    "mode": "bus"
+  },
+  {
+    "id": "49",
+    "name": "VAN NESS-MISSION",
+    "mode": "bus"
+  },
+  {
+    "id": "38",
+    "name": "GEARY",
+    "mode": "bus"
+  },
+  {
+    "id": "24",
+    "name": "DIVISADERO",
+    "mode": "bus"
+  },
+  {
+    "id": "90",
+    "name": "SAN BRUNO OWL",
+    "mode": "bus"
+  },
+  {
+    "id": "5R",
+    "name": "FULTON RAPID",
+    "mode": "bus"
+  },
+  {
+    "id": "91",
+    "name": "3RD-19TH AVE OWL",
+    "mode": "bus"
+  },
+  {
+    "id": "18",
+    "name": "46TH AVENUE",
+    "mode": "bus"
+  },
+  {
+    "id": "1",
+    "name": "CALIFORNIA",
+    "mode": "bus"
+  },
+  {
+    "id": "23",
+    "name": "MONTEREY",
+    "mode": "bus"
+  },
+  {
+    "id": "31",
+    "name": "BALBOA",
+    "mode": "bus"
+  },
+  {
+    "id": "35",
+    "name": "EUREKA",
+    "mode": "bus"
+  },
+  {
+    "id": "36",
+    "name": "TERESITA",
+    "mode": "bus"
+  }
+]
